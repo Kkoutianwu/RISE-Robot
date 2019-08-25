@@ -1,0 +1,10 @@
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\bin\Release\SerialAssistant.exe.config
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\bin\Release\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\bin\Release\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Release\RobotArm.csprojAssemblyReference.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Release\SerialAssistant.Form1.resources
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Release\SerialAssistant.Properties.Resources.resources
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Release\RobotArm.csproj.GenerateResource.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Release\RobotArm.csproj.CoreCompileInputs.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Release\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Release\SerialAssistant.pdb

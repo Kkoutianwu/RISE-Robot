@@ -1,0 +1,36 @@
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\RobotArm.csproj.GenerateResource.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\RobotArm.csproj.CoreCompileInputs.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\RobotArm.csprojAssemblyReference.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\bin\Debug\Matrix.dll
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\RobotArm.csproj.CopyComplete
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\bin\Debug\Matrix.dll
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\RobotArm.csprojAssemblyReference.cache
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\RobotArm.csproj.GenerateResource.cache
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\RobotArm.csproj.CoreCompileInputs.cache
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\RobotArm.csproj.CopyComplete
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\bin\Debug\Matrix.dll
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\RobotArm.csprojAssemblyReference.cache
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\RobotArm.csproj.GenerateResource.cache
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\RobotArm.csproj.CoreCompileInputs.cache
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\RobotArm.csproj.CopyComplete
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\myoasm\Desktop\整合\机械臂控制\SerialAssistant\obj\Debug\SerialAssistant.pdb

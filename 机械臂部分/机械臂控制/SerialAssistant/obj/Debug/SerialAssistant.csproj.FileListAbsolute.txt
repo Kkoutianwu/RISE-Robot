@@ -1,0 +1,151 @@
+E:\C#\SerialAssistant\SerialAssistant\bin\Debug\SerialAssistant.exe
+E:\C#\SerialAssistant\SerialAssistant\bin\Debug\SerialAssistant.pdb
+E:\C#\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.csprojResolveAssemblyReference.cache
+E:\C#\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+E:\C#\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+E:\C#\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+E:\C#\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+E:\C#\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.exe
+E:\C#\SerialAssistant\SerialAssistant\obj\Debug\SerialAssistant.pdb
+D:\Downloads\SerialAssistant-master\SerialAssistant\bin\Debug\SerialAssistant.exe
+D:\Downloads\SerialAssistant-master\SerialAssistant\bin\Debug\SerialAssistant.pdb
+D:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+D:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+D:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+D:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+D:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+D:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.exe
+D:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.pdb
+E:\Downloads\SerialAssistant-master\SerialAssistant\bin\Debug\SerialAssistant.exe
+E:\Downloads\SerialAssistant-master\SerialAssistant\bin\Debug\SerialAssistant.pdb
+E:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+E:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+E:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+E:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+E:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+E:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.exe
+E:\Downloads\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.pdb
+E:\C#代码\SerialAssistant-master\SerialAssistant\bin\Debug\SerialAssistant.exe
+E:\C#代码\SerialAssistant-master\SerialAssistant\bin\Debug\SerialAssistant.pdb
+E:\C#代码\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+E:\C#代码\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+E:\C#代码\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+E:\C#代码\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+E:\C#代码\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.exe
+E:\C#代码\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.pdb
+E:\C#代码\SerialAssistant-master\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+E:\C#代码\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+E:\C#代码\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+E:\C#代码\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+E:\C#代码\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+E:\C#代码\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+E:\C#代码\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+E:\C#代码\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+E:\C#代码\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+E:\C#代码\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CopyComplete
+C:\Users\96529\Desktop\IMU_control_ARM\SerialAssistant\bin\Debug\ClassLibrary1.dll
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\bin\Debug\ClassLibrary1.dll
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CopyComplete
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\RISE\Desktop\IMU_control_ARM\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\bin\Debug\ClassLibrary1.dll
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CopyComplete
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\RISE\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\Kkoutianwu\Desktop\抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\Kkoutianwu\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\Kkoutianwu\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\Kkoutianwu\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\Kkoutianwu\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Kkoutianwu\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\读文件坐标抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\Kkoutianwu\Desktop\读文件坐标抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\读文件坐标抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\Kkoutianwu\Desktop\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\Kkoutianwu\Desktop\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\Kkoutianwu\Desktop\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\Kkoutianwu\Desktop\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Kkoutianwu\Desktop\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\96529\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\96529\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\96529\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\96529\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\96529\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\96529\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\96529\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\96529\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\96529\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\96529\Desktop\整合\读文件坐标抓取\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\C#桌面\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\Kkoutianwu\Desktop\整合\C#桌面\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\C#桌面\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\C#桌面\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\Kkoutianwu\Desktop\整合\C#桌面\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\Kkoutianwu\Desktop\整合\C#桌面\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\Kkoutianwu\Desktop\整合\C#桌面\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\Kkoutianwu\Desktop\整合\C#桌面\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Kkoutianwu\Desktop\整合\C#桌面\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\C#桌面\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 副本\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 副本\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 副本\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe.config
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\bin\Debug\SerialAssistant.pdb
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csprojAssemblyReference.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Form1.resources
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.Properties.Resources.resources
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.GenerateResource.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.exe
+C:\Users\Kkoutianwu\Desktop\整合\读文件坐标抓取 - 原 - 副本\IMU_control_ARM\SerialAssistant\obj\Debug\SerialAssistant.pdb
