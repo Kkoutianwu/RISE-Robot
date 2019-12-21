@@ -1,7 +1,10 @@
 # RISE-Robot
 
- * v1.0版本，实现了安卓端语音控制机器人完成下五子棋、倒水、物品分拣、智能示教、身份认证以及颜值检测。演示视频https://www.bilibili.com/video/av70817190
- 
+ * v1.0版本，实现了安卓端语音控制机器人完成下五子棋、倒水、物品分拣、智能示教、身份认证以及颜值检测。演示视频
+ 五子棋：https://www.bilibili.com/video/av70817190
+ 倒水：https://www.bilibili.com/video/av70817949
+ 物品分拣：https://www.bilibili.com/video/av71569842
+ 智能示教：https://www.bilibili.com/video/av74145669
  代码分为3个部分：
  
  1、机械臂运动学控制 
